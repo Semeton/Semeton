@@ -34,6 +34,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Semeton-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/semetonbalogun/")
 
 <div>
+  <img
+              src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,postgres,mongodb,tailwind,bootstrap,git,github,gitlab,linux,bash&perline=6"
+            />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
