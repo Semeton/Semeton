@@ -33,6 +33,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Semeton-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/semetonbalogun/")
 
+---
+
 ### :man_technologist: Skills :
 <div>
   <img
