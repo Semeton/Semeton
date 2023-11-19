@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to the backend for building web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -38,8 +38,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :man_technologist: Skills :
 <div>
   <img
-              src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,postgres,mongodb,tailwind,bootstrap,git,github,gitlab,linux,bash&perline=9"
+              src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,nodejs,express,react,mongodb,git,github,gitlab,linux,bash&perline=7"
             />
+<!--   <img
+              src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,postgres,mongodb,tailwind,bootstrap,git,github,gitlab,linux,bash&perline=9"
+            /> -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; -->
 </div>
 
