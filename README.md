@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to the backend for building web and mobile applications.
+- :telescope: Working as a Backend Engineer and contributing to the of building web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
