@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m working as a Software Engineer and contributing to the backend for building web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
