@@ -18,10 +18,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 </div>
-
----
 
 <a href="https://gitroll.io/profile/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" alt="GitRoll Profile Badge"/></a>
 
