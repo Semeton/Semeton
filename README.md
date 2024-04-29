@@ -48,6 +48,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
+<a href="https://gitroll.io/profile/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" alt="GitRoll Profile Badge"/></a>
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Semeton&theme=dark&background=000000)](https://git.io/streak-stats)
 
