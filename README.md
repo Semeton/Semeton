@@ -23,6 +23,10 @@
 
 ---
 
+<a href="https://gitroll.io/profile/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" alt="GitRoll Profile Badge"/></a>
+
+---
+
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: Working as a Backend Engineer and contributing to the of building web and mobile applications.
@@ -47,8 +51,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
-
-<a href="https://gitroll.io/profile/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVrAN5jSPTKhCMJHRFZ9kvaFm5tf1" alt="GitRoll Profile Badge"/></a>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Semeton&theme=dark&background=000000)](https://git.io/streak-stats)
